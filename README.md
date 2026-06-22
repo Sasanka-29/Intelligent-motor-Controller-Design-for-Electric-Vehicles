@@ -65,4 +65,3 @@ We extend our deepest gratitude to Dr. Pranjal Barman and Dr. Debajit Sarma for 
 ## Contributors
 - **Sasanka Barman**
 - **Debashish Kashyap**
-- **Matiur Rahman**
